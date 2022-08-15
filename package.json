@@ -2,6 +2,8 @@
   "name": "vue-todo-app",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://vn69.github.io/vuejs-vuex-router/",
+
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build"
